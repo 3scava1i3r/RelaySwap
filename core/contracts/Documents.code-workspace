@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../Downloads/debris"
+		},
+		{
+			"path": "../../../../../Music"
+		},
+		{
+			"path": "../../../../../Videos/test"
+		},
+		{
+			"path": "../../../../../Videos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Videos"
+	}
+}

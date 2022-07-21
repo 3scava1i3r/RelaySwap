@@ -1,0 +1,26 @@
+{
+   "standalone": {
+      "WETH": "0xC2Bf5F29a4384b1aB0C063e1c666f02121B6084a",
+      "factory": "0x5c4242beB94dE30b922f57241f1D02f36e906915",
+      "router": "0x42e2EE7Ba8975c473157634Ac2AF4098190fc741",
+      "multicall": "0xF8cef78E923919054037a1D03662bBD884fF4edf",
+      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c",
+      "tok1": "0xe573BCA813c741229ffB2488F7856C6cAa841041",
+      "tok2": "0xBb0CC0fb3e0c06725c67167501f850B4900D6DB5"
+   },
+   "moonbase": {
+      "WETH": "0xD909178CC99d318e4D46e7E66a972955859670E1",
+      "Factory": "0xe1b383Ae5aD239AE250BcBDBd68e3bBd9e1A58F1",
+      "Router": "0x8a1932D6E26433F3037bd6c3A40C816222a6Ccd4",
+      "multicall": "0x4E2cfca20580747AdBA58cd677A998f8B261Fc21",
+      "init_code_hash": "0x01429e880a7972ebfbba904a5bbe32a816e78273e4b38ffa6bdeaebce8adba7c"
+   },
+   "mumbai": {
+      "WETH": "0x5D58930395D72284AF4A91a9d22bf46844E3eD24",
+      "Factory": "0x5F0083d7CC877Fc210B9C7e889ACfA4D65b6f146",
+      "Router": "0xDd753a3C975DF9A0C66801E6d2d89dB7351c04a6",
+      "multicall": "0x02Ed0E9dC81A6382923C8F037Eff25263F8d22e4",
+      "init_code_hash": ""
+
+   }
+}
